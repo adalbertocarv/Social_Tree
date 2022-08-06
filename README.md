@@ -1,4 +1,4 @@
-![iPhone 13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0302905-3a2d-4897-9a7b-cb8c94ce7e38/iPhone_13.png)
+![iPhone_13](https://user-images.githubusercontent.com/107323618/183260198-610b656b-7bdb-493d-8854-1c6f0eacc2cf.png)
 
 ## **Índice**
 
