@@ -18,7 +18,7 @@ Você pode duplicar o layout do projeto [clicando aqui](https://www.figma.com/fi
 
 Baixe os assets aqui ⤵️
 
-[assets.rar](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51256d0c-9ddf-4191-81a8-350996607090/assets.rar)
+[assets.zip](https://github.com/adalbertocarv/Social_Tree/files/9275525/assets.zip)
 
 # 🚀 **Techs**
 
