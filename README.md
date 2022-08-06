@@ -12,7 +12,7 @@ Neste desafio você deve criar uma página com uma lista de links que pode ser u
 
 ## Layout
 
-![MacBook Pro 16 inch.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/152cec1f-b8ad-4b3a-9520-e1fbd5433a32/MacBook_Pro_16_inch.png)
+![MacBook_Pro_16_inch](https://user-images.githubusercontent.com/107323618/183260251-2a91f2e0-d32d-49bc-b091-9c9fbc2750d9.png)
 
 Você pode duplicar o layout do projeto [clicando aqui](https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate) ou baixar o zip com os assets do projeto.
 
